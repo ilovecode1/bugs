@@ -1,0 +1,2 @@
+# bugs
+Bugs for projects
