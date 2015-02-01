@@ -1,2 +1,1 @@
-# bugs
-Bugs for projects
+[Go there](https://github.com/ilovecode1/bugs/issues)
